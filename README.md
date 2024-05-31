@@ -22,4 +22,5 @@ Currently doing a `FullStack Bootcamp` at [Factoria F5](https://factoriaf5.org/)
 ### Some of my projects and collaborations
 
 [Little Red Riding Hood](https://olenaandrushchenko.github.io/Little-Red-Riding-Hood/)
+
 [Astronauts](https://github.com/OlenaAndrushchenko/Astronauts) 
