@@ -19,6 +19,7 @@ Currently doing a `FullStack Bootcamp` at [Factoria F5](https://factoriaf5.org/)
 - [VSCode](https://code.visualstudio.com/)
 - [Vitest](https://vitest.dev/)
 
-### One of my projects
+### Some of my projects and collaborations
 
 [Little Red Riding Hood](https://olenaandrushchenko.github.io/Little-Red-Riding-Hood/)
+[Astronauts](https://github.com/OlenaAndrushchenko/Astronauts) 
