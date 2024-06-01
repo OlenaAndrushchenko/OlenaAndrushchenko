@@ -24,3 +24,5 @@ Currently doing a `FullStack Bootcamp` at [Factoria F5](https://factoriaf5.org/)
 [Little Red Riding Hood](https://olenaandrushchenko.github.io/Little-Red-Riding-Hood/)
 
 [Astronauts](https://github.com/OlenaAndrushchenko/Astronauts) 
+
+[![](https://visitcount.itsvg.in/api?id=OlenaAndrushchenko&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
